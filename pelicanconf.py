@@ -5,7 +5,7 @@ import os
 
 AUTHOR = 'Josh Langsfeld'
 SITENAME = 'Josh Langsfeld - UMD'
-SITEURL = ''
+SITEURL = 'http://terpconnect.umd.edu/~jdlangs'
 THEME = 'themes/pelican-sober'
 
 PATH = 'content'
@@ -20,9 +20,14 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
+#Sidebar info
+PELICAN_SOBER_ABOUT = 'Site of Josh Langsfeld'
+SOCIAL = (
+    ('github/phobon', 'https://github.com/phobon'),
+)
 LINKS = (
-    ('Pelican', 'http://getpelican.com/'),
+    ('UMD', 'http://www.umd.edu/'),
+    ('Maryland Robotics Center', 'http://www.robotics.umd.edu/'),
 )
 
 DEFAULT_PAGINATION = False
