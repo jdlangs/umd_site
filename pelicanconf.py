@@ -6,7 +6,7 @@ import os
 AUTHOR = 'Josh Langsfeld'
 SITENAME = 'Josh Langsfeld - UMD'
 SITEURL = ''
-#THEME = os.getenv("HOME") + "/Documents/Projects/pelican-themes/pelican-sober"
+THEME = 'themes/pelican-sober'
 
 PATH = 'content'
 
