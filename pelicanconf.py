@@ -34,9 +34,9 @@ College Park, MD 20742<br>
 PELICAN_SOBER_STICKY_SIDEBAR = True
 
 SOCIAL = (
-    ('google+', 'https://plus.google.com/+JoshLangsfeld'),
     ('linkedin', 'https://www.linkedin.com/pub/josh-langsfeld/31/287/807'),
-    ('github/phobon', 'https://github.com/phobon'),
+    ('github', 'https://github.com/phobon'),
+    ('google+', 'https://plus.google.com/+JoshLangsfeld'),
 )
 LINKS = (
     ('UMD', 'http://www.umd.edu/'),
