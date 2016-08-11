@@ -7,7 +7,7 @@ equally straightforward mathematical syntax, but much nicer language features an
 performance.
 
 As a [ROS](http://wiki.ros.org) user, I am eager to start introducing Julia into the robotics
-community so I wrote the [RobotOS.jl](https://github.com/phobon/RobotOS.jl) package to integrate the
+community so I wrote the [RobotOS.jl](https://github.com/jdlangs/RobotOS.jl) package to integrate the
 two. The [BARC Project](http://www.barc-project.com) at UC Berkeley is a sample project where
 researchers are using Julia [optimization tools](http://www.juliaopt.org) for robotics and using
 RobotOS.jl to bridge between Julia and ROS.

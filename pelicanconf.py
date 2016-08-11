@@ -35,7 +35,7 @@ PELICAN_SOBER_STICKY_SIDEBAR = True
 
 SOCIAL = (
     ('linkedin', 'https://www.linkedin.com/pub/josh-langsfeld/31/287/807'),
-    ('github', 'https://github.com/phobon'),
+    ('github', 'https://github.com/jdlangs'),
     ('google+', 'https://plus.google.com/+JoshLangsfeld'),
 )
 LINKS = (
